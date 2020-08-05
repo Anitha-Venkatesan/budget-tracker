@@ -23,10 +23,10 @@ Note: They already included in npm package.json
 * `cd budget-tracker`
 * Open budget-tracker folder in Command Line Terminal then run command `npm start`
 ### Screenshots
-[]()
+![budget-tracker](screenshot/budget-tracker.gif)
 
 ### Heroku Deployed URL
-[Demo](https://pwabudget-tracker.herokuapp.com/)
+[Demo](https://peaceful-earth-84587.herokuapp.com/)
 ### License
 * This program is licensed under the MIT license.
 
