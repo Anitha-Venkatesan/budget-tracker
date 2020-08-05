@@ -33,4 +33,4 @@ Note: They already included in npm package.json
 ### Questions
 If you have any questions, Please feel free to contact me Anitha Venkatesan on my email anithamca68@gmail.com
 
-You can also create issues on my repo.
+You can also create [issues](https://github.com/Anitha-Venkatesan/budget-tracker/issues) on my repo.
